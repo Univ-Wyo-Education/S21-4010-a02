@@ -1,5 +1,11 @@
 m4_include(../S21-4010/setup.m4)
 
+# University of Wyoming, 4010-Blockchain, Assignment 02
+
+200pts total
+
+
+
 Part 1 - What is Mining? (100pts)
 =============================================================
 

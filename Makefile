@@ -1,13 +1,11 @@
 
 PP=`pwd`
-FN=syllabus
-FN1=syllabus-5010
 DIR=../F20-1015
 IMG=
 PY=
 
 
-all: Hash.md Hash.html build
+all: README.md README.html build
 
 build:
 	( cd main ; go build main.go )
