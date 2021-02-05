@@ -258,9 +258,8 @@ do is using Merkle trees.
 
 In this assignment you will implement a Merkle tree hash.
 
-When you pull code from git you should have a `./A-03/hash` directory.
-This is a copy of Assignment 2's `./A-02/hash`.  The new code that you will
-be working on is in `./merkle`.
+It is dependent on the code in ./hash.   All of the code in this assignment will be part of Assignment 03 in the ./bsvr
+directory.
 
 
 ### Pseudo Code
